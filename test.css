@@ -1,0 +1,14 @@
+
+/* website by english languange */
+.main-wrapper,
+.section {
+    float: left;
+    width: 100%;
+}
+.header-section{
+    position: relative;
+    top: 0;
+    left: 0;
+    width:100% ;
+    z-index: ;
+}

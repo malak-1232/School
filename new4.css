@@ -1,0 +1,250 @@
+ /* *} margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+} */
+/* 
+:root {
+    --bs-blue: #0d6efd;
+    --bs-dark-blue: #004a80;
+    --bs-lower-blue: #8194d9;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+    --bs-gray-dark: #343a40;
+    --bs-gray-100: #f8f9fa;
+    --bs-gray-200: #e9ecef;
+    --bs-gray-300: #dee2e6;
+    --bs-gray-400: #ced4da;
+    --bs-gray-500: #adb5bd;
+    --bs-gray-600: #6c757d;
+    --bs-gray-700: #495057;
+    --bs-gray-800: #343a40;
+    --bs-gray-900: #212529;
+    --bs-primary: #309255;
+    --bs-secondary: #e7f8ee;
+    --bs-success: #198754;
+    --bs-info: #363b42;
+    --bs-warning: #ffc107;
+    --bs-danger: #dc3545;
+    --bs-light: #f8f9fa;
+    --bs-dark: #212832;
+    --bs-primary-rgb: 48, 146, 85;
+    --bs-secondary-rgb: 231, 248, 238;
+    --bs-success-rgb: 25, 135, 84;
+    --bs-info-rgb: 54, 59, 66;
+    --bs-warning-rgb: 255, 193, 7;
+    --bs-danger-rgb: 220, 53, 69;
+    --bs-light-rgb: 248, 249, 250;
+    --bs-dark-rgb: 33, 40, 50;
+    --bs-white-rgb: 255, 255, 255;
+    --bs-black-rgb: 0, 0, 0;
+    --bs-body-color-rgb: 82, 86, 91;
+    --bs-body-bg-rgb: 255, 255, 255;
+    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --bs-body-font-family: Montserrat, sans-serif;
+    --bs-body-font-size: 1rem;
+    --bs-body-font-weight: 400;
+Show all properties (17 more)
+} */
+:root {
+    --swiper-navigation-size: 44px;
+}
+:root {
+    --swiper-theme-color: #007aff;
+}
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#2D3F76
+#F8A134
+#437BE3
+
+
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,400i,500,600,700i&display=swap");
+:root {
+  --main-color: #FDC800;
+  --heading-color: #002147;
+  --paragraph-color: #565872;
+  --body-font: "Rubik", sans-serif;
+  --body-font-size: 16px;
+  --line-height30: 1.7;
+}
+
+#2A2A72
+#009FFD
+#EAF6FF
+#232528
+#FFA400
+
+  background-image: url(images/shape-4.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+ position:absolute;
+  content:"";
+  background-color: #2A2A72;
+
+#0056D2
+#4AADDC
+#61D2BE
+#94DEC7
+#EBF3FF
+#F2F5FA box مستطيل
+#F2F5FA  sction top
+
+
+بالطبع، إليك تدرجات اللون #2D3F76 مكتوبة على شكل أكواد ألوان، تتدرج من اللون الأساسي إلى ألوان أفتح وأغمق:
+
+### درجات أفتح:
+- **#3A507E** (أفتح قليلاً).
+- **#46608B** (درجة أفتح معتدلة).
+- **#5978A2** (أزرق فاتح).
+- **#6C91B9** (أفتح بشكل واضح).
+- **#A2BDD6** (أزرق فاتح جدًا وقريب من الأبيض).
+
+### درجات أغمق:
+- **#263866** (أغمق قليلاً).
+- **#1F3156** (درجة أغمق معتدلة).
+- **#192946** (أزرق داكن جدًا).
+- **#121F36** (شديد الدكانة).
+- **#0C1626** (شبه أسود).
+
+يمكنك استخدام هذه التدرجات لخلق تصميم متناغم وأنيق. إذا أردت ألوانًا إضافية أو اقتراحات أخرى، لا تتردد في السؤال!
+
+
+
+
+
+
+
+إليك تدرجات اللون **#F8A134** مكتوبة كأكواد ألوان، تتدرج من اللون الأساسي إلى ألوان أفتح وأغمق:
+
+### درجات أفتح:
+- **#F9B352** (أفتح قليلاً).
+- **#FAC069** (درجة أفتح معتدلة).
+- **#FBCE82** (برتقالي فاتح).
+- **#FCD999** (فاتح جدًا).
+- **#FDE4B3** (برتقالي مائل للأبيض).
+
+### درجات أغمق:
+- **#E18F30** (أغمق قليلاً).
+- **#C97C2C** (درجة أغمق معتدلة).
+- **#B16928** (برتقالي داكن).
+- **#995523** (أغمق وأكثر دفئًا).
+- **#7F451F** (شديد الدكانة).
+
+يمكنك استخدام هذه التدرجات لإضافة تنوع وعمق إلى تصاميمك. إذا كنت بحاجة إلى المزيد من المساعدة، أنا هنا! 😊
+
+
+
+
+
+
+
+
+
+إليك تدرجات اللون **#437BE3** مكتوبة كأكواد ألوان، تتدرج من اللون الأساسي إلى ألوان أفتح وأغمق:
+
+### درجات أفتح:
+- **#5A8CE8** (أفتح قليلاً).
+- **#73A0ED** (درجة أفتح معتدلة).
+- **#8CB3F2** (أزرق فاتح).
+- **#A5C6F7** (فاتح جدًا).
+- **#BEDAFC** (أزرق مائل للأبيض).
+
+### درجات أغمق:
+- **#3C6FCB** (أغمق قليلاً).
+- **#3563B3** (درجة أغمق معتدلة).
+- **#2E579B** (أزرق داكن).
+- **#274B83** (شديد الدكانة).
+- **#203F6B** (أغمق بشكل واضح).
+
+يمكنك استخدام هذه التدرجات لخلق تصاميم جذابة ومتناسقة. إذا كنت بحاجة لمزيد من الخيارات أو اقتراحات إضافية، لا تتردد في السؤال! 😊
+
+
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+
+
+:root {
+  --main-color: #FDC800;
+  --heading-color: #002147;
+  --paragraph-color: #565872;
+  --body-font: "Rubik", sans-serif;
+  --body-font-size: 16px;
+  --line-height30: 1.7;
+}
+
+
+
+
+.home-3 {
+  --main-color: #1DC295;
+}
